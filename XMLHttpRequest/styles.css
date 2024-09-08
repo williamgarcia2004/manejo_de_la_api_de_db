@@ -1,0 +1,28 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cabecera { 
+    height: 125px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+}
+
+.cabecera__title { 
+    color: white;
+    text-align: center;
+}
+
+.principal {
+    margin: 10px 20px;
+}
+
+img {
+    width: 450px;
+    height: 500px;
+}
